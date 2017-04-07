@@ -1,0 +1,17 @@
+# NGC 6154
+
+--- Song Huang ----
+
+
+## Basic information
+
+    - Redshift: 0.020064 +/- 0.000133
+    - SDSS Velocity Dispersion: 146.96 +/- 3.525
+
+## Links
+
+* [CALIFA link](http://www.caha.es/CALIFA/public_html/?q=content/califa-explorer-v01&califaid=833)
+
+* [SDSS Explorer link](http://skyserver.sdss.org/dr13/en/tools/explore/Summary.aspx?ra=246.37704&dec=49.84025)
+
+* [NED link](http://ned.ipac.caltech.edu/cgi-bin/objsearch?search_type=Obj_id&objid=43091&objname=1&img_stamp=YES&hconst=73.0&omegam=0.27&omegav=0.73&corr_z=1)
